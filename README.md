@@ -26,7 +26,7 @@ Raspberry pi, Arduino, AVR etc
 > Communications : Serial, UART/USART, CAN
 
 ### Interests
-AI(ML, DL), Data Analysis, Embedded Project with sensor
+AI(ML, DL), Data Analysis, Embedded Project with sensor, Autonomous Driving
 ### Others
 Reading, GenshinImpact(AR 59 in ASIA server. If you wonder my UID, Feel Free to ASK! :] )
 
