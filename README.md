@@ -4,9 +4,10 @@ Here are some info about me!
 ---
 
 - In Progress Project : `binpacking_posco-v0` with RL
-
+> It is a project in POSCO AI Academy 20th.
+> We sovle 2D-BPP with RL, especially with PPO!
 - Previous project : ML based SOD Algorithm in MHE with `PCA-SVM model` and `CNN`
- > this is a projcet about SOD(Seat Occupancy Detection) Alogrithm using ML.
+ > This is a projcet about SOD(Seat Occupancy Detection) Alogrithm using ML.
  > with ultrasonic sensor, I got pre-processed 16x8 matrix signal.
  > FOA, I used ML(not DL) models but It failed to classfication.
  > So, I used CNN. Convert matrix into gray scale heatmap img, and training CNN.
