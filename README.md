@@ -34,9 +34,7 @@ Reading, GenshinImpact(AR 59 in ASIA server. If you wonder my UID, Feel Free to 
 1. OS : Windows, Mac, Linux
 2. Language : KR, EN
 3. Programming Language : C, Python, MATLAB
-5. Certificates : TOEIC 945, TOEIC Speaking AL, ADsP
 
 ### Studying
 1. Language : JP
 2. Programming Language : C#, R
-3. Certificates : ADP, BigData, SQLP
