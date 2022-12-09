@@ -1,21 +1,17 @@
 ### Hi there :]
 
-In Progress Project : binpacking_posco-v0
+Here are some info about me!
 ---
-Previous project : ML based SOD Algorithm in MHE
 
+- In Progress Project : `binpacking_posco-v0` with RL
 
-<!--
-**lou9am/lou9am** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Previous project : ML based SOD Algorithm in MHE with `PCA-SVM model`
+- Experienced MCUs : Raspberry pi, Arduino, AVR etc
 
-Here are some ideas to get you started:
+- Interests : AI(ML, DL), Data Analysis, Embedded Project
+- Others : GenshinImpact AR 59 :]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I Can
+- 1. OS : Windows, Mac, Linux
+- 2. Language : KR, EN
+- 3. Programming Language : C, Python, MATLAB
