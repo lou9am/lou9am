@@ -20,11 +20,14 @@ Here are some info about me!
  > This is a project about Big Data with Python.
  
  
-- Experienced MCUs in Univ : Raspberry pi, Arduino, AVR etc
+### Experienced MCUs in Univ
+Raspberry pi, Arduino, AVR etc
 > Communications : Serial, UART/USART, CAN
 
-- Interests : AI(ML, DL), Data Analysis, Embedded Project
-- Others : Reading, GenshinImpact(AR 59 :] in ASIA server. If you wonder my UID, Feel Free to ASK!)
+### Interests
+AI(ML, DL), Data Analysis, Embedded Project
+### Others
+Reading, GenshinImpact(AR 59 :] in ASIA server. If you wonder my UID, Feel Free to ASK!)
 
 ### What I Can
 1. OS : Windows, Mac, Linux
