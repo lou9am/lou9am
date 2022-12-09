@@ -18,7 +18,7 @@ Here are some info about me!
 
 ###### 2. Big Data Analysis Project of MomQ (KOR Company selling Baby Products)
  > This is a project in POSCO Big Data Academy 20th.<br>
- > We've got 3 csv files with 200,000 rows
+ > We've got 3 csv files with 200,000 rows<br>
  > It won 1st prize in 20th 🥇
  
 ### Experienced MCUs in Univ
