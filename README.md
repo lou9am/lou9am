@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there :]
+
+In Progress Project : binpacking_posco-v0
+---
+Previous project : ML based SOD Algorithm in MHE
+
 
 <!--
 **lou9am/lou9am** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
