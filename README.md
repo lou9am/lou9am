@@ -28,7 +28,7 @@ Raspberry pi, Arduino, AVR etc
 ### Interests
 AI(ML, DL), Data Analysis, Embedded Project with sensor
 ### Others
-Reading, GenshinImpact(AR 59 :] in ASIA server. If you wonder my UID, Feel Free to ASK!)
+Reading, GenshinImpact(AR 59 in ASIA server. If you wonder my UID, Feel Free to ASK! :] )
 
 ### What I Can
 1. OS : Windows, Mac, Linux
