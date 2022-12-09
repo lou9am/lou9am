@@ -9,7 +9,7 @@ Here are some info about me!
 > We are planning to sovle 2D-BPP with RL, especially with PPO! <br>
 > #Keras #Pytorch #gym #custom_gym #2DBPP #RL #PPO #DQN
 
-### Previous project
+### Previous projects
 ###### 1. ML based SOD Algorithm in MHE with `PCA-SVM model` and `CNN`
  > This is a projcet about SOD(Seat Occupancy Detection) Alogrithm using ML.(It is a Classfication Problem)<br>
  > With ultrasonic sensor, I got pre-processed 16x8 matrix signal.<br>
@@ -17,8 +17,9 @@ Here are some info about me!
  > So, I used CNN. Convert matrix into gray scale heatmap img, and training CNN.
 
 ###### 2. Big Data Analysis Project of MomQ (KOR Company selling Baby Products)
- > This is a project about Big Data with Python.
- 
+ > This is a project in POSCO Big Data Academy 20th.<br>
+ > We've got 3 csv files with 200,000 rows
+ > It won 1st prize in 20th 🥇
  
 ### Experienced MCUs in Univ
 Raspberry pi, Arduino, AVR etc
@@ -33,4 +34,9 @@ Reading, GenshinImpact(AR 59 :] in ASIA server. If you wonder my UID, Feel Free 
 1. OS : Windows, Mac, Linux
 2. Language : KR, EN
 3. Programming Language : C, Python, MATLAB
-4. Certificates : TOEIC 945, TOEIC Speaking AL, ADsP
+5. Certificates : TOEIC 945, TOEIC Speaking AL, ADsP
+
+### Studying
+1. Language : JP
+2. Programming Language : C#, R
+3. Certificates : ADP, BigData, SQLP
