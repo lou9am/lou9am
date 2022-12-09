@@ -3,7 +3,8 @@
 Here are some info about me!
 ---
 
-### In Progress Project : `binpacking_posco-v0` with RL
+### In Progress Project
+###### 1. `binpacking_posco-v0` with RL
 > It is a project in POSCO AI Academy 20th.<br>
 > We sovle 2D-BPP with RL, especially with PPO! <br>
 > #Keras #gym #custom_gym #2DBPP #RL #PPO #DQN
@@ -23,7 +24,7 @@ Here are some info about me!
 > Communications : Serial, UART/USART, CAN
 
 - Interests : AI(ML, DL), Data Analysis, Embedded Project
-- Others : GenshinImpact AR 59 :]
+- Others : Reading, GenshinImpact(AR 59 :] in ASIA server. If you wonder my UID, Feel Free to ASK!)
 
 ### What I Can
 1. OS : Windows, Mac, Linux
