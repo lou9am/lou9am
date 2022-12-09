@@ -5,7 +5,7 @@ Here are some info about me!
 
 - In Progress Project : `binpacking_posco-v0` with RL
 > It is a project in POSCO AI Academy 20th.
-> We sovle 2D-BPP with RL, especially with PPO!
+> We sovle 2D-BPP with RL, especially with PPO! <br>
 > #Keras #gym #custom_gym #2DBPP #RL #PPO #DQN
 
 - Previous project : ML based SOD Algorithm in MHE with `PCA-SVM model` and `CNN`
