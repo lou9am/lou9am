@@ -6,7 +6,7 @@ Here are some info about me!
 ### In Progress Project
 ###### 1. `binpacking_posco-v0` with RL
 > It is a project in POSCO AI Academy 20th.<br>
-> We are planning to sovle 2D-BPP with RL, especially with PPO! <br>
+> We are planning to sovle 2D-BPP with RL, especially PPO! <br>
 > #Keras #Pytorch #gym #custom_gym #2DBPP #RL #PPO #DQN
 
 ### Previous projects
