@@ -12,6 +12,6 @@ Here are some info about me!
 - Others : GenshinImpact AR 59 :]
 
 ### What I Can
-- 1. OS : Windows, Mac, Linux
-- 2. Language : KR, EN
-- 3. Programming Language : C, Python, MATLAB
+1. OS : Windows, Mac, Linux
+2. Language : KR, EN
+3. Programming Language : C, Python, MATLAB
