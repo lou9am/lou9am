@@ -4,10 +4,7 @@ Here are some info about me!
 ---
 
 ### In Progress Project
-###### 1. `binpacking_posco-v0` with RL
-> It is a project in POSCO AI Academy 20th.<br>
-> We are planning to sovle 2D-BPP with RL, especially PPO! <br>
-> #Keras #Pytorch #gym #custom_gym #2DBPP #RL #PPO #DQN
+> None
 
 ### Previous projects
 ###### 1. ML based SOD Algorithm in MHE with `PCA-SVM model` and `CNN`
@@ -20,7 +17,14 @@ Here are some info about me!
  > This is a project in POSCO Big Data Academy 20th.<br>
  > We've got 3 csv files with 200,000 rows<br>
  > It won 1st prize in 20th 🥇
- 
+
+###### 3. `binpacking_posco-v0` with RL
+> It is a project in POSCO AI Academy 20th.<br>
+> We sovled 2D-BPP with RL, especially PPO. <br>
+> It won 1st prize in 20th 🥇 <br>
+> #Stable-Baselines3 #gym #custom_gym #2DBPP #RL #PPO
+
+
 ### Experienced MCUs in Univ
 Raspberry pi, Arduino, AVR etc
 > Communications : Serial, UART/USART, CAN
@@ -37,4 +41,5 @@ Reading, GenshinImpact(AR 59 in ASIA server. If you wonder my UID, Feel Free to 
 
 ### Studying
 1. Language : JP
-2. Programming Language : C#, R
+2. Programming Language : C++
+3. Certificate : SQLD, ADP
