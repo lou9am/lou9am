@@ -20,12 +20,12 @@ Here are some info about me!
  > We've got 3 csv files with 200,000 rows<br>
  > It won 1st prize in 20th 🥇
 
-###### 3. `binpacking_posco-v0` with RL
+###### 3. `binpacking_posco` with RL
 > It is a project in POSCO AI Academy 20th.<br>
 > We sovled 2D-BPP with RL, especially PPO. <br>
+> We made custom gym environment with OpenAI gym. <br>
 > It won 1st prize in 20th 🥇 <br>
-> #Stable-Baselines3 #gym #custom_gym #2DBPP #RL #PPO
-
+> #Stable-Baselines3 #OpenAI #gym #custom_gym #2DBPP #RL #PPO
 
 ### Experienced MCUs in Univ
 Raspberry pi, Arduino, AVR etc
@@ -34,7 +34,7 @@ Raspberry pi, Arduino, AVR etc
 ### Interests
 AI(ML, DL), Data Analysis, Embedded Project with sensor, Autonomous Driving
 ### Others
-Reading, GenshinImpact(AR 59 in ASIA server. If you wonder my UID, Feel Free to ASK! :] )
+Reading📚, Golf⛳, GenshinImpact🎮
 
 ### What I Can
 1. OS : Windows, Mac, Linux
