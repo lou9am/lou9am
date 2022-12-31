@@ -7,12 +7,14 @@ Here are some info about me!
 > None
 
 ### Previous projects
+[ 2020 ]
 ###### 1. ML based SOD Algorithm in MHE with `PCA-SVM model` and `CNN`
  > This is a projcet about SOD(Seat Occupancy Detection) Alogrithm using ML.(It is a Classfication Problem)<br>
  > With ultrasonic sensor, I got pre-processed 16x8 matrix signal.<br>
  > First of all, I used ML(not DL) models like SVM, KNN, DT, RF etc but It failed.<br>
  > So, I used CNN. Convert matrix into gray scale heatmap img, and training CNN.
 
+[ 2022 ]
 ###### 2. Big Data Analysis Project of MomQ (KOR Company selling Baby Products)
  > This is a project in POSCO Big Data Academy 20th.<br>
  > We've got 3 csv files with 200,000 rows<br>
