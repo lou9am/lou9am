@@ -37,11 +37,11 @@ AI(ML, DL), Data Analysis, Embedded Project with sensor, Autonomous Driving
 Reading📚, Golf⛳, GenshinImpact🎮
 
 ### What I Can
-1. OS : Windows, Mac, Linux
+1. OS : Windows, MacOS, Linux
 2. Language : KR, EN
 3. Programming Language : C, Python, MATLAB
 
 ### Studying
 1. Language : JP
 2. Programming Language : C++
-3. Certificate : SQLD, ADP
+3. Certificate : SQLD, ADP, JPT
