@@ -34,7 +34,7 @@ Raspberry pi, Arduino, AVR etc
 ### Interests
 AI(ML, DL), Data Analysis, Embedded Project with sensor, Autonomous Driving
 ### Others
-Reading📚, Golf⛳, GenshinImpact🎮
+Reading📚, Golf⛳
 
 ### What I Can
 1. OS : Windows, MacOS, Linux
@@ -44,4 +44,4 @@ Reading📚, Golf⛳, GenshinImpact🎮
 ### Studying
 1. Language : JP
 2. Programming Language : C++
-3. Certificate : SQLD, ADP, JPT
+3. Certificate : SQLD, ADP
