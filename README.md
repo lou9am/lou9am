@@ -1,6 +1,8 @@
 <div align="center">
 
- ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi%20there!&fontSize=90)
+ ![header](https://capsule-render.vercel.app/api?type=waving&color=73D1FA&height=300&section=header&text=Hi%20there!&fontColor=FFFFFF&fontSize=90)
+
+_:sparkles:"Some people feel the rain. Others just get wet.":sparkles:_
 
 ## What I Can
 #### Programming Languages
@@ -9,11 +11,12 @@ plus MATLAB
 #### OS  
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=&logoColor=yellow"> <img src="https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=&logoColor=lightgrey"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=&logoColor=orange"><br>
 #### Language
-KR, EN, JP
+:kr:, :us: , :jp:
 
 ## Experienced
+ 
 #### Library/Toolkit etc
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=red"> <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=Tensorflow&logoColor=yellow"> <img src="https://img.shields.io/badge/OpenAI_Gym-0081A5?style=for-the-badge&logo=OpenAIgym&logoColor=red"> <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=red">
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=red"> <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=Tensorflow&logoColor=yellow"> <img src="https://img.shields.io/badge/OpenAI_Gym-0081A5?style=for-the-badge&logo=OpenAIgym&logoColor=red"> <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=green">
 
 #### Cowork Tools
 <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=pink"> <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white">
@@ -21,6 +24,7 @@ KR, EN, JP
 ## BOJ
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lou_9_am)](https://solved.ac/{lou_9_am})
 
+</div>
 
 ## Here are some more info about me!
 ---
@@ -58,4 +62,4 @@ Reading📚, Golf⛳
 2. Programming Language : C/C++, R, SQL
 3. Certificate : SQLD, ADP, BigData
 
-</div>
+
