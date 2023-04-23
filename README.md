@@ -11,7 +11,7 @@ plus MATLAB
 #### OS  
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=&logoColor=yellow"> <img src="https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=&logoColor=lightgrey"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=&logoColor=orange"><br>
 #### Language
-:kr:, :us: , :jp:
+:kr:, :us:
 
 ## Experienced
  
