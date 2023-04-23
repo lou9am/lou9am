@@ -1,11 +1,10 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi%20there!&fontSize=90)
-<div align="center"><br>
-  ### Programming Languages<br>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=blue"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"><br>
-  ### OS<br>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=&logoColor=yellow"><img src="https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=&logoColor=lightgrey"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=&logoColor=orange"><br>
-</div>
+
+### Programming Languages  
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=blue"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"><br>
+### OS  
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=&logoColor=yellow"><img src="https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=&logoColor=lightgrey"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=&logoColor=orange"><br>
 
 Here are some info about me!
 ---
