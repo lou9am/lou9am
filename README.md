@@ -1,29 +1,29 @@
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi%20there!&fontSize=90)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=blue&height=300&section=header&text=Hi%20there!&fontSize=90)
 
 <div align="center">
 
 ## What I Can
-
 #### Programming Languages
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=blue">_<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"><br>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=blue"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"><br>
 plus MATLAB
 #### OS  
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=&logoColor=yellow">_<img src="https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=&logoColor=lightgrey">_<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=&logoColor=orange"><br>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=&logoColor=yellow"> <img src="https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=&logoColor=lightgrey"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=&logoColor=orange"><br>
 #### Language
-KR, EN, JP <br>
-</div>
+KR, EN, JP
+
+## Experienced
+#### Library/Toolkit etc
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=red"> <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=Tensorflow&logoColor=yellow"> <img src="https://img.shields.io/badge/OpenAI_Gym-0081A5?style=for-the-badge&logo=OpenAIgym&logoColor=red"> <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=red">
+
+#### Cowork Tools
+<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=pink"> <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white">
 
 ## BOJ
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lou_9_am)](https://solved.ac/{lou_9_am})
 
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=lou9am&theme=warm)
-<img src="http://mazandi.herokuapp.com/api?handle=lou9am&theme=warm"/>
 
-## Here are some info about me!
+## Here are some more info about me!
 ---
-### In Progress Project
-> None
-
 ### Previous projects
 [ 2020 ]
 ###### 1. ML based SOD Algorithm in MHE with `PCA-SVM model` and `CNN`
@@ -50,11 +50,12 @@ Raspberry pi, Arduino, AVR etc
 > Communications : Serial, UART/USART, CAN
 
 ### Interests
-AI(ML, DL), Data Analysis, Embedded Project with sensor, Autonomous Driving
+AI(ML, DL, RL), Data Analysis, Embedded Project with sensor, Autonomous Driving
 ### Others
 Reading📚, Golf⛳
-
 ### Studying
 1. Language : JP
-2. Programming Language : C++, R
+2. Programming Language : C/C++, R, SQL
 3. Certificate : SQLD, ADP, BigData
+
+</div>
