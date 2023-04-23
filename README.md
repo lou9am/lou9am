@@ -1,5 +1,9 @@
 
-### Hi there :]
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi%20there!&fontSize=90)
+
+// Badges
+// C
+<img src="https://img.shields.io/badge/C-#A8B9CC?style=for-the-badge&logo=C&logoColor=black">
 
 Here are some info about me!
 ---
