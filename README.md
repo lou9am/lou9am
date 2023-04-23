@@ -1,14 +1,26 @@
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi%20there!&fontSize=90)
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi%20there!&fontSize=90)
+<div align="center">
 
-### Programming Languages  
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=blue"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"><br>
-### OS  
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=&logoColor=yellow"><img src="https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=&logoColor=lightgrey"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=&logoColor=orange"><br>
+## What I Can
 
-Here are some info about me!
+#### Programming Languages
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=blue">_<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"><br>
+plus MATLAB
+#### OS  
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=&logoColor=yellow">_<img src="https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=&logoColor=lightgrey">_<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=&logoColor=orange"><br>
+#### Language
+KR, EN, JP <br>
+</div>
+
+## BOJ
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lou_9_am)](https://solved.ac/{lou_9_am})
+
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=lou9am&theme=warm)
+<img src="http://mazandi.herokuapp.com/api?handle=lou9am&theme=warm"/>
+
+## Here are some info about me!
 ---
-
 ### In Progress Project
 > None
 
@@ -41,11 +53,6 @@ Raspberry pi, Arduino, AVR etc
 AI(ML, DL), Data Analysis, Embedded Project with sensor, Autonomous Driving
 ### Others
 Reading📚, Golf⛳
-
-### What I Can
-1. OS : Windows, MacOS, Linux
-2. Language : KR, EN
-3. Programming Language : C, Python, MATLAB
 
 ### Studying
 1. Language : JP
