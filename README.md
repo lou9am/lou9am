@@ -60,6 +60,6 @@ Reading📚, Golf⛳
 ### Studying
 1. Language : JP
 2. Programming Language : C/C++, R, SQL
-3. Certificate : SQLD, ADP, BigData
+3. Certificate : SQLD, ADP, BigData, CSTS
 
 
