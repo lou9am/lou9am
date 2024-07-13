@@ -49,6 +49,11 @@ plus MATLAB
 > It won 1st prize in 20th 🥇 <br>
 > #Stable-Baselines3 #OpenAI #gym #custom_gym #2DBPP #RL #PPO
 
+### In Progress
+[ 2023~Now ]
+- Working as a BSP / Embedded Linux Research Engineer in mobility field.
+- Due to company security policy, cannot provide detailed info :(
+
 ### Experienced MCUs in Univ
 Raspberry pi, Arduino, AVR etc
 > Communications : Serial, UART/USART, CAN
@@ -59,7 +64,7 @@ AI(ML, DL, RL), Data Analysis, Embedded Project with sensor, Autonomous Driving
 Reading📚, Golf⛳
 ### Studying
 1. Language : JP
-2. Programming Language : C/C++, R, SQL
-3. Certificate : SQLD, ADP, BigData, CSTS
+2. Programming Language : C/C++, R
+3. Certificate : BigData, CSTS
 
 
